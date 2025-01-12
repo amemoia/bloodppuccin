@@ -1,0 +1,26 @@
+{
+  "name": "bloodppuccin",
+  "displayName": "Bloodppuccin",
+  "description": "a personal theme based on catppuccin",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bloodppuccin Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark.json"
+      },
+      {
+        "label": "Bloodppuccin Light",
+        "uiTheme": "vs",
+        "path": "./themes/light.json"
+      }
+    ]
+  }
+}

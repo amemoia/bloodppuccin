@@ -1,0 +1,103 @@
+/*
+    This is a lazy method to store the modified colors and originals for easy replacement
+*/
+
+:root {
+    /* Colors */
+    --rosewater:      rgb(245, 224, 220);
+    --flamingo:       rgb(242, 205, 205);
+    --pink:           rgb(245, 194, 231);
+    --mauve:          rgb(203, 166, 247);
+    --red:            rgb(243, 139, 168);
+    --maroon:         rgb(235, 160, 172);
+    --peach:          rgb(250, 179, 135);
+    --yellow:         rgb(249, 226, 175);
+    --green:          rgb(166, 227, 161);
+    --teal:           rgb(148, 226, 213);
+    --sky:            rgb(137, 220, 235);
+    --sapphire:       rgb(116, 199, 236);
+    --blue:           rgb(137, 180, 250);
+    --lavender:       rgb(180, 190, 254);
+    --accent: rgb(250, 114, 125);
+
+    /* Background Pane */
+    --base:           rgb(16, 15, 15);
+    --cat-base:       rgb(30, 30, 46);
+    /* Secondary Panes */
+    --crust:          rgb(5, 5, 5);
+    --mantle:         rgb(10, 10, 10);
+    --cat-crust:      rgb(17, 17, 27);
+    --cat-mantle:     rgb(24, 24, 37);
+    /* Surface Elements */
+    --surface0:       rgb(58, 58, 58);
+    --surface1:       rgb(79, 79, 79);
+    --surface2:       rgb(99, 99, 99);
+    --cat-surface0:   rgb(49, 50, 68);
+    --cat-surface1:   rgb(69, 71, 90);
+    --cat-surface2:   rgb(88, 91, 112);
+    /* Overlays */
+    --overlay0:       rgb(120, 120, 120);
+    --overlay1:       rgb(140, 140, 140);
+    --overlay2:       rgb(163, 163, 163);
+    --cat-overlay0:   rgb(108, 112, 134);
+    --cat-overlay1:   rgb(127, 132, 156);
+    --cat-overlay2:   rgb(147, 153, 178);
+    /* Typography */
+    --text:           rgb(224, 224, 224);
+    --subtext0:       rgb(184, 184, 184);
+    --subtext1:       rgb(204, 204, 204);
+    --cat-text:       rgb(205, 214, 244);
+    --cat-subtext0:   rgb(166, 173, 200);
+    --cat-subtext1:   rgb(186, 194, 222);
+    --subtle:           var(--overlay1);
+}
+
+/* bloodpuccin colorscheme light */
+:root {
+    /* Colors */
+    --Lrosewater:     #dc8a78;
+    --Lflamingo:      #dd7878;
+    --Lpink:          #ea76cb;
+    --Lmauve:         #8839ef;
+    --Lred:           #d20f39;
+    --Lmaroon:        #e64553;
+    --Lpeach:         #fe640b;
+    --Lyellow:        #df8e1d;
+    --Lgreen:         #40a02b;
+    --Lteal:          #179299;
+    --Lsky:           #04a5e5;
+    --Lsapphire:      #209fb5;
+    --Lblue:          #1e66f5;
+    --Llavender:      #7287fd;
+
+    /* Background Pane */
+    --Lbase:          hsl(220deg, 23%, 95%);
+    --Lcat-base:      #eff1f5;
+    /* Secondary Panes */
+    --Lcrust:         hsl(220deg, 21%, 89%);
+    --Lmantle:        hsl(220deg, 22%, 92%);
+    --Lcat-crust:     #dce0e8;
+    --Lcat-mantle:    #e6e9ef;
+    /* Surface Elements */
+    --Lsurface0:      hsl(223deg, 16%, 83%);
+    --Lsurface1:      hsl(225deg, 14%, 77%);
+    --Lsurface2:      hsl(227deg, 12%, 71%);
+    --Lcat-surface0:  #ccd0da;
+    --Lcat-surface1:  #bcc0cc;
+    --Lcat-surface2:  #acb0be;
+    /* Overlays */
+    --Loverlay0:      hsl(228deg, 11%, 65%);
+    --Loverlay1:      hsl(231deg, 10%, 59%);
+    --Loverlay2:      hsl(232deg, 10%, 53%);
+    --Lcat-overlay0:  #9ca0b0;
+    --Lcat-overlay1:  #8c8fa1;
+    --Lcat-overlay2:  #7c7f93;
+    /* Typography */
+    --Ltext:          hsl(234deg, 16%, 35%);
+    --Lsubtext0:      hsl(233deg, 10%, 47%);
+    --Lsubtext1:      hsl(233deg, 13%, 41%);
+    --Lcat-text:      #4c4f69;
+    --Lcat-subtext0:  #6c6f85;
+    --Lcat-subtext1:  #5c5f77;
+    --Lsubtle:          var(--overlay1);
+}

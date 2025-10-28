@@ -1,3 +1,6 @@
+# no longer being worked on!!
+this was a neat little attempt at customizing for me but i dont plan on continuing this or trying to fix the leftover problems, feel free to do whatever with what i made here
+
 # bloodppuccin 
 my personal catppuccin but like red
 feel free to do whatever with this. light theme is still unfinished
